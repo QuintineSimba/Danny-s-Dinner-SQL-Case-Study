@@ -61,8 +61,8 @@ Danny's Diner has a small but behaviourally distinct customer base. The data rev
 
 The loyalty programme has commercial merit — particularly its first-week bonus mechanic — but its impact is limited by low enrolment. Expanding the programme and actively recruiting Customer C is the single highest-leverage action Danny can take based on the available data.
 
-Full SQL solutions for all 10 questions are available in the [`solutions.sql`](./solutions.sql) file in this repository.
+Full SQL solutions for all 10 questions are available in the [`Danny's Diner.sql`](./Danny'sDiner.sql) file in this repository.
 
 ---
 
-*Dataset and case study credit: [Danny Ma — Data With Danny](https://www.datawithdanny.com)*
+*Dataset and case study credit: [Danny Ma — 8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-1/))*
